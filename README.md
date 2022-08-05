@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到Dua的博客
 
 You can use the [editor on GitHub](https://github.com/DuaGuo/dua.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
